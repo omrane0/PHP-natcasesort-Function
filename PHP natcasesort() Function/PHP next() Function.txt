@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$people = array("Peter", "Joe", "Glenn", "Cleveland");
+
+echo current($people) . "<br>";
+echo next($people);
+?>
+
+</body>
+</html>
+
+
+
+
+
+Peter
+Joe

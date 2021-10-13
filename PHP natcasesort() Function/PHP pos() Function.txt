@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$people = array("Peter", "Joe", "Glenn", "Cleveland");
+
+echo pos($people) . "<br>";
+?>
+
+</body>
+</html>
+
+
+
+Peter

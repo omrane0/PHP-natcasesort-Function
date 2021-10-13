@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$letter = range("a","d");
+print_r ($letter);
+?>
+
+</body>
+</html>
+
+
+
+
+Array ( [0] => a [1] => b [2] => c [3] => d )
